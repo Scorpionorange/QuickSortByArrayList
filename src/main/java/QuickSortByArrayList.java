@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 
 /**
- * Created by ScorpionOrange on 2016/11/23.
+ * Created by ScorpionOrange on 2016/12/04.
  * 使用可变数组进行类似于快速排序的排序：
  * 方法checkSequen用法：
  * 接收一个已排序的可变数组，及一个待比较的值；
